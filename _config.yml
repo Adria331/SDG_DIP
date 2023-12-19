@@ -37,3 +37,11 @@ exclude:
   - README.md
   - LICENSE
 
+# Languages
+# ---------
+# This tells sdg-build to perform "translated builds" for each of the specified
+# languages. Each build is in its own subfolder - one for each language.
+languages:
+  - en
+  - es
+  - ca
