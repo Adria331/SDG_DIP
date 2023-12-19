@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Contact us
-language: en
-permalink: /contact-us/
+language: ca
+permalink: /ca/contact-us/
 ---
 ### We are interested in your feedback regarding this website and its contents.
 
