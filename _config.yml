@@ -8,6 +8,10 @@ title: general.site_title
 url: ""
 environment: staging
 
+languages:
+  - es
+  - ca
+
 # Pages
 collections:
   pages:
@@ -36,8 +40,4 @@ exclude:
   - README
   - README.md
   - LICENSE
-
-languages:
-  - en
-  - es
-  - ca
+  
