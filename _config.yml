@@ -36,3 +36,8 @@ exclude:
   - README
   - README.md
   - LICENSE
+
+languages:
+  - en
+  - es
+  - ca
