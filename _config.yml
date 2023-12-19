@@ -8,9 +8,10 @@ title: general.site_title
 url: ""
 environment: staging
 
+# The list of languages that are translated. The first one is the default.
 languages:
-  - es
   - ca
+  - es
 
 # Pages
 collections:
